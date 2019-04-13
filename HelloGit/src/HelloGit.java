@@ -2,7 +2,7 @@
 public class HelloGit {
 
 	public static String print() {
-		return ("Hello Git!");
+		return ("Hello Git!\n");
 	}
 	
 	public static void main(String[] args) {
